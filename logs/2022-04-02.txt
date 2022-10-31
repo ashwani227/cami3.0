@@ -1,0 +1,4 @@
+2022-04-02 21:09:44.595209
+Input:{'HPO-DDD': [], 'UMLS': [], 'EricTerm': [], 'AIRs': ['Respite Care'], 'cb_category': [], 'location': 'Calgary', 'AGE': 'all', 'ngrams': ['respite', 'care', 'calgary'], 'relatedConditions': [], 'searchedCategory': ['core knowledge'], 'userQueryMeaning': 'respite care in calgary '}
+['https://www.just4ufamilyservices.com/', 'https://www.enviros.org/respite-care-connection/', 'https://aafscalgary.wildapricot.org/', 'https://ohanacare.ca/services-for-special-need-children/', 'https://docs.google.com/spreadsheets/d/1lukKxYeKrYIbxsp0BtpfEmKM5QbPfa5_Oj4tSbCBAok/edit?usp=sharing', 'https://www.nursenextdoor.com/our-services/', 'https://www.abcnannies.ca/', 'http://www.bigplans.org/', 'http://www.causeandeffectfoundation.com/', 'http://www.abc-s.ca/', 'http://airdriefoundation4.ca/', 'https://www.adwa.ca/', 'http://ideascalgary.ca/']
+---------------------------------------------------

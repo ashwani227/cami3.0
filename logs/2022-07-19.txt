@@ -1,0 +1,12 @@
+2022-07-19 18:08:55.330981
+Input:{'HPO-DDD': [], 'UMLS': ['1/3 meter distance vision finding'], 'EricTerm': [], 'AIRs': ['Autism Therapy'], 'cb_category': [], 'location': 'Vancouver', 'AGE': 'Child', 'ngrams': ['autism', 'service', 'near'], 'relatedConditions': [], 'searchedCategory': ['services'], 'userQueryMeaning': 'autism services near Vancouver '}
+['https://www.ableclinic.ca/services-2/groups/social-thinking/', 'https://www.sourcesbc.ca/our-services/trauma-counselling-program/', 'https://www.oxfordlearning.com/', 'https://www.parentsupportbc.ca/support-circles/', 'https://dogswithwings.ca/', 'http://nrvcl.ab.ca/', 'https://jumpstart.canadiantire.ca/', 'http://www.playtherapy.ca/', 'https://closertohome.com/', 'https://www.wildrosecaregivers.com/', 'https://kidshelpphone.ca/', 'https://www.newheightscalgary.com/', 'https://www.medicalert.ca/']
+---------------------------------------------------
+2022-07-19 18:10:09.888587
+Input:{'HPO-DDD': ['Global developmental delay'], 'UMLS': [], 'EricTerm': [], 'AIRs': [], 'cb_category': ['Cognitive development'], 'location': 'Vancouver', 'AGE': 'Child', 'ngrams': ['global', 'developmental', 'delay'], 'relatedConditions': ['Sleep disturbance', 'Constipation', 'Generalized hypotonia', 'Joint hypermobility', 'Behavioral abnormality', 'Strabismus', 'Autism', 'Microcephaly', 'Delayed speech and language development', 'Seizure'], 'searchedCategory': ['services'], 'userQueryMeaning': 'Global developmental delay '}
+[]
+---------------------------------------------------
+2022-07-19 18:10:10.235077
+Input:{'HPO-DDD': ['Global developmental delay'], 'UMLS': [], 'EricTerm': [], 'AIRs': [], 'cb_category': ['Cognitive development'], 'location': 'Metro Vancouver', 'AGE': 'Child', 'ngrams': ['global', 'developmental', 'delay'], 'relatedConditions': ['Sleep disturbance', 'Constipation', 'Generalized hypotonia', 'Joint hypermobility', 'Behavioral abnormality', 'Strabismus', 'Autism', 'Microcephaly', 'Delayed speech and language development', 'Seizure'], 'searchedCategory': ['services'], 'userQueryMeaning': 'Global developmental delay '}
+[]
+---------------------------------------------------
