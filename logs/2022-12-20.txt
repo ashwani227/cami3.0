@@ -1,0 +1,56 @@
+2022-12-20 22:34:37.554234
+User Input Value: 
+My kid is stupid
+---------------------------------------------------
+2022-12-20 22:34:40.788865
+Query Error: 
+Cannot understand the term My kid is stupid
+---------------------------------------------------
+2022-12-20 22:35:10.975897
+Input: 
+['https://store.kiwanis.org/', 'http://www.childrenshospital.ab.ca/site/PageServer?pagename=ourchampionchild', 'https://www.kiwanis.org/news/newsitem/news/newsitem/grants-help-clubs-make-life-better-for-kids', 'https://www.candokiddo.com/news/baby-registry-tips-baby-clothes', 'https://calgarycounselling.com/blog/ease-the-pain-of-divorce-on-children', 'https://newlifecounselling.life/teasing-vs-bullying/', 'https://www.candokiddo.com/news/rolling-into-tummy-time', 'https://www.happilyfamily.com/how-to-help-kids-feel-emotionally-safe/', 'https://www.candokiddo.com/news/lesser-known-baby-milestones', 'https://www.aboutface.ca/story/larkins-story/', 'https://www.happilyfamily.com/want-your-child-to-do-chores/', 'https://www.candokiddo.com/news/books-for-babies', 'https://www.brainbalancecenters.com/blog/diet-and-behavior-changes?_ga=2.179710243.606817370.1595007670-1228311861.1593724506', 'http://www.kara-frc.com/2019/01/04/summertime-tips/', 'https://www.candokiddo.com/news/cando-kiddo-news', 'https://www.happilyfamily.com/kids-lying-part1/', 'https://www.starlightcanada.org/ardene-shoes/7-year-old-tyson-thanks-the-nice-neighbourhood-nurse/', 'https://childmind.org/article/why-kids-lie/', 'https://ckc.calgaryfoundation.org/profile/kids-cancer-care-foundation-of-alberta/', 'https://www.aboutkidshealth.ca/COVID-19', 'https://www.happilyfamily.com/effective-parenting-by-design-not-default/', 'http://www.kara-frc.com/2021/02/26/farewell-kara/', 'https://chailifelinecanada.org/chai-blog-dina-benayon/', 'https://www.aboutkidshealth.ca/yourteen', 'https://childmind.org/article/talking-to-kids-about-alcohol-and-drugs/', 'https://teachingsexualhealth.ca/parents/resources/parent-topic-flashcard-tool/', 'https://www.zebracentre.ca/blog/2019/8/20/receiving-a-disclosure-of-abuse-how-to-respond', 'https://www.thrivecyn.ca/module-9-the-law-and-duty-to-report/', 'https://www.happilyfamily.com/why-kids-lie-part2/', 'https://www.connecting-dots.ca/getting-the-cooperation-of-the-uncooperative-child-part-2/']
+---------------------------------------------------
+2022-12-20 22:36:09.563575
+User Input Value: 
+educational programs for ADHD teen in Alberta
+---------------------------------------------------
+2022-12-20 22:36:47.459177
+Input: 
+['https://aafscalgary.wildapricot.org/', 'https://janusacademy.org/goodlife-kids-foundation-story-meet-keira-mcneil/', 'https://closertohome.com/2012/10/22/the-first-meeting', 'https://www.frfp.ca/respect/', 'https://autismcalgary.com/what-in-the-world-is-going-on-june-2012/?_escaped_fragment_=', 'https://autismcalgary.com/what-in-the-world-is-going-on-june-2012/', 'https://engagededucators.com/author/lani/page/3/', 'https://www.foothillsacademy.org/community-services/parent-education/parent-articles/cannabis-adolescent-brain', 'https://www.foothillsacademy.org/community-services/parent-education/parent-articles/back-to-school-2020', 'https://www.foothillsacademy.org/community-services/parent-education/parent-articles/setting-students-up-for-success', 'https://www.distresscentre.com/2016/06/211-helps-syrian-refugees-and-new-immigrants-settle-in-calgary/', 'https://www.distresscentre.com/2020/08/50-stories-part-31-modeling-by-example-barb-litchinsky/', 'https://www.woodshomes.ca/blog/our-client-voices/clients-tell-us-what-they-are-thankful-for/', 'https://www.woodshomes.ca/blog/our-client-voices/a-voice-from-the-street-meet-andy/', 'https://fsca.ca/who-is-your-hero/', 'https://www.qicreative.com/news/reemerging-safely-after-staying-safe-at-home', 'https://www.gv.ymca.ca/blog/mindfulness-books-podcasts-apps', 'https://www.ventureacademy.ca/troubled-teen-blog/treating-troubled-teens-holding-back-means-sending-teen-residential-treatment/', 'https://www.ventureacademy.ca/troubled-teen-blog/sleep-takes-backseat-teen-media-use-study-finds/', 'https://autismawarenesscentre.com/shop/other-disabilities/add-adhd/teaching-teens-with-add-adhd-executive-function-deficits/', 'https://www.bayridgecounsellingcentres.ca/communicating/', 'https://www.bayridgecounsellingcentres.ca/online-counselling/couples-marriage-therapy/', 'https://www.bayridgecounsellingcentres.ca/counselling-clinic-mississauga/depression/', 'https://www.bayridgecounsellingcentres.ca/christian_perspective/', 'https://www.bayridgecounsellingcentres.ca/domestic-abuse-help/', 'https://www.additudemag.com/getting-into-college-with-adhd-planning-junior-year/', 'https://www.additudemag.com/problem-peers-for-adhd-kids/', 'https://www.additudemag.com/happy-meals-happier-kids/', 'https://www.additudemag.com/distracted-driving-safety-tips-adhd/', 'https://www.additudemag.com/10-myths-about-special-ed-services/']
+---------------------------------------------------
+2022-12-20 22:47:20.732761
+User Input Value: 
+eduction services in alberta
+---------------------------------------------------
+2022-12-20 22:47:23.515105
+Query Error: 
+Cannot understand the term eduction services in alberta
+---------------------------------------------------
+2022-12-20 22:47:57.123694
+User Input Value: 
+education programs in alberta
+---------------------------------------------------
+2022-12-20 22:48:41.501013
+Input: 
+{'HPO-DDD': [], 'UMLS': [], 'EricTerm': ['Programs'], 'AIRs': ['Education'], 'cb_category': ['Cognitive development'], 'location': 'Alberta', 'AGE': 'Child', 'ngrams': ['education', 'program'], 'relatedConditions': [], 'searchedCategory': ['education', 'services'], 'userQueryMeaning': 'If I understood correctly, you want to know about Cognitive development.Is that right?'}
+---------------------------------------------------
+2022-12-20 22:48:41.501259
+Resources: 
+['https://www.stalbertfrc.ca/who-we-are', 'https://pacekids.ca/ecs', 'https://pacekids.ca/ecs/', 'https://pacekids.ca/champion', 'https://pacekids.ca/champion/', 'https://www.leadfoundation.ca/join-our-team/', 'https://pacekids.ca/bmf-smart-board/', 'https://www.providencechildren.com/school/program-details/', 'https://www.leadfoundation.ca/fall-programs-at-lead/', 'https://www.leadfoundation.ca/2020/09/', 'http://www.leadfoundation.ca/services-supports/', 'https://www.leadfoundation.ca/services-supports/', 'https://thehubfrc.ca/register-with-the-hub', 'https://imforkids.org/faqs', 'https://www.norwoodcentre.com/parent-family-education', 'https://www.norwoodcentre.com/early-childhood-development', 'https://pacekids.ca/toy-drive-for-changemakers-project/', 'https://pacekids.ca/category/uncategorized/', 'https://pacekids.ca/blog/', 'https://pacekids.ca/category/blog/', 'https://pacekids.ca/category/news/', 'https://www.gritprogram.ca/payments/application-form/', 'https://pacekids.ca/', 'https://pacekids.ca/will-for-riding/', 'https://pacekids.ca/12-days-thriving/', 'https://www.thornhillchildcare.com/locations/lumino-centre', 'https://kidsds.org/', 'https://pacekids.ca/pacekids-alumni-gives-back/', 'https://imforkids.org/program-unit-funding-puf', 'https://pacekids.ca/sensory-movement-gym/']
+---------------------------------------------------
+2022-12-20 22:50:33.950710
+User Input Value: 
+education programs in alebrta
+---------------------------------------------------
+2022-12-20 22:50:52.232794
+User Input Value: 
+education programs in alebrta
+---------------------------------------------------
+2022-12-20 22:51:47.980617
+Input: 
+{'HPO-DDD': [], 'UMLS': [], 'EricTerm': ['Programs'], 'AIRs': ['Education'], 'cb_category': ['Cognitive development'], 'location': 'Alberta', 'AGE': 'Child', 'ngrams': ['education', 'program'], 'relatedConditions': [], 'searchedCategory': ['education'], 'userQueryMeaning': 'If I understood correctly, you want to know about Cognitive development.Is that right?'}
+---------------------------------------------------
+2022-12-20 22:51:47.980774
+Resources: 
+['http://nrvcl.ab.ca/programs-and-services/sign-say-and-play-register/', 'https://pacekids.ca/authentically-autism/', 'https://thehubfrc.ca/caregivereducation', 'https://cheerskids.ca/', 'https://imforkids.org/', 'https://imforkids.org/Home', 'https://www.alberta.ca/student-information-high-school-transcripts.aspx', 'http://nrvcl.ab.ca/programs-and-services/caregiver-support-group/', 'http://nrvcl.ab.ca/programs-and-services/journey-of-hope-anger-management-program/', 'http://nrvcl.ab.ca/programs-and-services/discipline-tools-for-your-preschooler/', 'https://pacekids.ca/triple-p-seminars-going-virtual/', 'https://prepprogram.ca/about-2/', 'https://janusacademy.org/gala-cancellation/', 'https://cheerskids.ca/blog/details/inspiring-children-to-play-outside-an-interview-with-lori-toma-from-growing-roots-forest-play.html', 'https://morozchildpsychology.com/autism-spectrum-disorders.php', 'https://prepprogram.ca/women-of-vision-barbara-tien/', 'http://www.kindredkids.ca/About-Us.php', 'https://janusacademy.org/goodlife-kids-foundation-story-meet-keira-mcneil/', 'https://www.rockypointacademy.com/post/learning-to-read-phonics-vs-whole-word', 'https://ldedmonton.com/resources/', 'https://rivervalleyschool.ca/author/better/', 'https://rivervalleyschool.ca/category/blog/', 'https://cheerskids.ca/blog/details/using-active-listening-to-strengthen-the-parent-educator-partnership.html', 'http://nrvcl.ab.ca/get-involved/partnerships-and-collaborations/', 'https://www.rockypointacademy.com/post/installing-the-concepts-that-modify-behaviors', 'https://www.rockypointacademy.com/learning-specialist-calgary', 'https://closertohome.com/2019/10/10/community-builder-2019-dr-daniel-garfinkel-registered-psychologist', 'https://closertohome.com/2012/10/22/the-first-meeting', 'https://closertohome.com/2016/02/12/community-support-gives-hope-in-a-difficult-economy', 'https://closertohome.com/get-involved/donate/care-packages']
+---------------------------------------------------

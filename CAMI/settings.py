@@ -45,7 +45,8 @@ INSTALLED_APPS = [
     'chat_module',
     'import_export',
     'bug_reporting',
-    'tips'
+    'tips',
+    'goals'
 ]
 
 
