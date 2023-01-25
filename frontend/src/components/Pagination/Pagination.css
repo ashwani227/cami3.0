@@ -1,0 +1,17 @@
+
+.paginationItem.active {
+    border: 1px solid #888;
+    color: #888;
+    pointer-events: none;
+}
+
+.paginationItem {
+    position: relative;
+}
+
+.paginationItem span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

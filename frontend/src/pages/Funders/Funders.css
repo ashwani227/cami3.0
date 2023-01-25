@@ -1,0 +1,32 @@
+.partners-container {
+    background-color: #fff;
+    width: 100vw;
+    margin: 0 auto;
+  }
+  
+  .header {
+    background-color: #29ABE2;
+    text-align: center;
+    padding: 5px 0;
+    color: #fff;
+  }
+  
+  .partners-list {
+    padding: 20px;
+  }
+  
+  .partners-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .info-row {
+    background-color: #29ABE2;
+    border: none;
+    width: 300px;
+    margin-bottom: 20px;
+    height: 4px;
+   
+  }
+  

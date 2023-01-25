@@ -1,0 +1,74 @@
+$font-stack: "Times New Roman", serif;
+$A4: 210mm;
+$base-font: 1em;
+
+.page-title {
+    font-size: $base-font*1.6;
+}
+
+
+$logo-color: #f3f000;
+$prim-color: #00a99d;
+$div-section: 1px solid $prim-color;
+
+
+
+.page-bg {
+    background: #ccc;
+    margin-top: 72px !important;
+    min-height: calc(100vh - 72px);
+    overflow: auto;
+}
+
+#page {
+    font-family: $font-stack;
+    margin: 13px auto !important;
+    width: 612px !important;
+    height: 792px !important;
+    background: #fff;
+    padding: 20px 40px;
+    box-shadow: 1px 1px 3px 1px #333;
+    border-collapse: separate;
+
+    position: relative;
+    background-color: white;
+    overflow: hidden;
+    border: 0;
+}
+
+#page section {
+    overflow: hidden;
+    max-height: calc(100% - 60px) !important;
+}
+
+#page h3 {
+    font-size: 14px !important;
+    font-weight: bold !important;
+}
+
+#page p, #page ol {
+    font-size: 12px !important;
+}
+
+.brand-logo {
+    background-image: url("../../images/org1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 35px;
+    width: 125px;
+}
+
+.page-title {
+    text-align: left;
+    font-weight: 400;
+    color: $prim-color;
+}
+
+.text-body {
+    margin: 1em 0 1em;
+}
+
+#page footer {
+    width: calc(100% - 80px);
+    margin: .5rem auto;
+}
