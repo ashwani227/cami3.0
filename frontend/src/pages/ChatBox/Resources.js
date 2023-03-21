@@ -327,7 +327,10 @@ const Resource = ({ data = {}, setModalShow, setShareableLink, handleLabelClicke
 
     return (
         <div className="resource-container">
-            <div className="resource-name">{title}</div>
+            <div className="resource-name">
+                <a className="link link-dark text-decoration-none" href={url}
+                    target={"_blank"} rel="noopener noreferrer" alt={title}>{(!title || !isNaN(title)) ? url : title}</a>
+            </div>
             <div className="resource-card">
                 <div className="resource-image">
                     {
@@ -381,9 +384,6 @@ const Resource = ({ data = {}, setModalShow, setShareableLink, handleLabelClicke
             </div>
             <hr />
             <div className="resource-action-buttons resource-buttons">
-                {/* <button className="action-button save-button">Save</button>
-                <button className="action-button share-button">Share</button>
-                <button className="action-button report-button">Report</button> */}
                 <button className="btn action-button save-button" data-status="-1" onClick={handleResourceSave}>
                     <i className="fas fa-save"></i>Save
                 </button>
@@ -399,92 +399,6 @@ const Resource = ({ data = {}, setModalShow, setShareableLink, handleLabelClicke
             </div>
         </div>
     )
-
-    // return (
-    //     <div className="resource-container h-100 justify-content-between">
-    //         <div className="image-container position-relative">
-    //             {
-    //                 (type && type !== "" && type === "video") ? <div className='position-relative'>
-    //                     <img src={`http://img.youtube.com/vi/${YouTubeGetID(url)}/maxresdefault.jpg`}
-    //                         alt="Video Thumbnail" className="resource-image w-100" />
-    //                     {/* <div className='position-absolute start-50 tranalate-middle top-50'>
-    //                         <svg x="0px" y="0px" viewBox="0 0 481 481">
-    //                             <g>
-    //                                 <path d="M410.6,70.4C365.1,25,304.7,0,240.5,0S115.9,25,70.4,70.4C25,115.9,0,176.3,0,240.5s25,124.6,70.4,170.1    C115.8,456,176.2,481,240.5,481s124.6-25,170.1-70.4C456,365.2,481,304.8,481,240.5S456,115.9,410.6,70.4z M240.5,454    C122.8,454,27,358.2,27,240.5S122.8,27,240.5,27S454,122.8,454,240.5S358.2,454,240.5,454z" />
-    //                                 <path d="M349.2,229.1l-152.6-97.9c-4.2-2.7-9.4-2.9-13.8-0.5c-4.3,2.4-7,6.9-7,11.8v195.7c0,4.9,2.7,9.5,7,11.8    c2,1.1,4.3,1.7,6.5,1.7c2.5,0,5.1-0.7,7.3-2.1l152.6-97.9c3.9-2.5,6.2-6.8,6.2-11.4S353,231.6,349.2,229.1z M202.8,313.7V167.3    l114.1,73.2L202.8,313.7z" />
-    //                             </g>
-    //                         </svg>
-    //                     </div> */}
-    //                 </div> :
-    //                     (type && type !== "" && type === "webpage") ?
-    //                         (imageFileName && imageFileName !== "") ? <img src={`https://cami.med.ualberta.ca/chat/media/${imageFileName}`}
-    //                             alt="" className="resource-image w-100" /> : null : null
-    //             }
-    //         </div>
-    //         <div className="resource-tag-container d-flex align-items-stretch flex-column h-100 justify-content-around">
-    //             <a className={`tag-header card-link link-light text-decoration-none max-two-lines ${(title && title !== "") ? 'text-capitalize ' : ''}`}
-    //                 href={url} target={'_blank'} rel="noreferrer" title={title}>{title || url}</a>
-
-    //             <div className="resource-tags">
-    //                 {
-    //                     resource.data.length > 0 && resource.data.slice(0, resource.itemsToShow).map((val, index) => {
-
-    //                         if (index > 0 && val !== category) {
-    //                             return (
-    //                                 <button className={`btn btn-sm btn-light resource-tag ${index > 0 ? "btn-labels" : ""}`} key={index} onClick={(event) => {
-    //                                     if (index > 0 && handleLabelClicked) {
-    //                                         handleLabelClicked(event)
-    //                                     } else {
-    //                                         event.preventDefault()
-    //                                     }
-    //                                 }}> {val} </button>
-    //                             )
-    //                         } else {
-    //                             return (
-    //                                 <div className="resource-tag" key={index}>{val}</div>
-    //                             );
-    //                         }
-
-    //                         // return (
-    //                         //     {
-    //                         //         index > 0 ? 
-    //                         //     }
-    //                         //     <div className="resource-tag" key={index} onClick={(event) => {
-    //                         //         if(index > 0 && handleLabelClicked) {
-    //                         //             handleLabelClicked(event)
-    //                         //         } else {
-    //                         //             event.preventDefault()
-    //                         //         }
-    //                         //     }}>{val}</div>
-    //                         // )
-    //                     })
-    //                 }
-
-    //                 <button className="more-tags mx-0" onClick={showMore}>
-    //                     {resource.expanded ? (
-    //                         <span>See less</span>
-    //                     ) : (
-    //                         <span>See more</span>
-    //                     )}
-    //                 </button>
-    //             </div>
-    //         </div>
-    //         <div className="resource-buttons">
-    //             <button className="btn btn-light btn-sm text-danger" data-status="-1" onClick={handleResourceSave}>
-    //                 <i className="fas fa-save"></i>Save
-    //             </button>
-    //             <button className="btn btn-light btn-sm text-warning" onClick={() => {
-    //                 setModalShow(true)
-    //                 setShareableLink(url)
-    //             }}>
-    //                 <i className="fas fa-share-alt-square"></i>Share
-    //             </button>
-    //             <button className="btn btn-light btn-sm text-danger">
-    //                 <i className="fas fa-exclamation-triangle"></i>Report
-    //             </button>
-    //         </div>
-    //     </div>
-    // );
 };
 
 const TypingAnimation = () => {
