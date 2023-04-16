@@ -1,0 +1,256 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.HomePage {
+    /* max-width: 1020px; */
+    margin: 0 auto;
+    font-family: "Poppins", sans-serif;
+}
+
+.HeroSection {
+    display: flex;
+    padding: 60px 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+.HeroLeft,
+.HeroRight {
+    width: 50%;
+}
+
+.HeroHeading {
+    font-size: 36px;
+    color: #4a5059;
+    font-weight: normal;
+    margin: 0 1em 0.67em 0;
+    line-height: 40px;
+}
+
+.HeroText {
+    font-size: 18px;
+    color: #4a5059;
+    line-height: 25px;
+}
+
+.HeroButtons {
+    padding: 20px 0;
+    max-width: 350px;
+}
+
+.HeroPrimaryButton,
+.HeroSecondaryButton {
+
+    border: 1px solid #29abe2;
+    box-shadow: none !important;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.HeroPrimaryButton {
+    color: white !important;
+    background-color: #29abe2;
+}
+
+.HeroSecondaryButton {
+    font-size: 18px;
+    width: 120px;
+    height: 40px;
+}
+
+.HeroPrimaryButton:hover,
+.HeroPrimaryButton:active,
+.HeroPrimaryButton:focus {
+    background-color: #49b8e6 !important;
+    border-color: #49b8e6;
+}
+
+.HeroSecondaryButton {
+    margin-left: 20px;
+    background-color: transparent;
+    color: #29abe2;
+}
+
+.HeroSecondaryButton:hover,
+.HeroSecondaryButton:active,
+.HeroSecondaryButton:focus {
+    color: white !important;
+    background-color: #29abe2;
+    border-color: #49b8e6;
+}
+
+.HeroImage {
+    width: 100%;
+}
+
+.FeatureSection, .OrganizationSection {
+    padding: 2rem 40px;
+}
+
+.FeatureHeading, .OrganizationHeading {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #29abe2;
+    line-height: 0.1em;
+    margin: 10px 0 60px;
+    font-size: 36px;
+    font-weight: normal;
+}
+
+.FeatureHeading span, .OrganizationHeading span {
+    background: #fff;
+    padding: 0 10px;
+    color: #29abe2;
+}
+
+.Features, .Organizations {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.Organization {
+    box-shadow: none !important;
+}
+
+.Feature, .Organization {
+    width: 33%;
+    margin: 10px 20px 20px 0;
+    padding: 10px 20px;
+    background-color: white;
+    border: 1px soilid #f7f7f7;
+    box-shadow: 0 0 12px -7px black;
+    position: relative;
+}
+
+.Feature:last-child, .Organization:last-child {
+    margin-right: 0;
+}
+
+.OrganizationTop {
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.FeatureTop, .OrganizationTop {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.75em;
+}
+
+.FeatureNumber, .OrganizationNumber {
+    font-size: 64px;
+    position: absolute;
+    /* top: -70px; */
+    top: 0;
+    right: 10px;
+    color: #4a5059;
+    opacity: 20%;
+}
+
+.OrganizationName {
+    height: auto !important;
+    min-height: 50px !important;
+}
+
+.OrganizationIcon {
+    max-width: 100%;
+    height: auto;
+}
+
+.FeatureName, .OrganizationName {
+    height: 70px;
+    font-size: 24px;
+    font-weight: 600;
+    margin: 1em 0;
+    color: #4a5059;
+}
+
+.FeatureText, .OrganizationText {
+    font-size: 16px;
+    color: #4a5059;
+}
+
+.Footer {
+    margin: 0;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    padding: 20px 40px 40px;
+    background-color: #29abe2;
+}
+
+.FooterColumn {
+    width: 25%;
+}
+
+.FooterLogo {
+    max-width: 150px;
+    margin-top: 30px;
+}
+
+.ColumnHeading {
+    font-size: 24px;
+    font-weight: 600;
+    color: white;
+}
+
+.ColumnList {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.ColumnListItem {
+    padding: 0 0 10px 2px;
+}
+
+.ListItemLink {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+@media (max-width: 768px) {
+    .HeroSection {
+        flex-direction: column;
+        padding: 50px 30px;
+    }
+
+    .HeroLeft,
+    .HeroRight {
+        width: 100%;
+    }
+
+    .HeroImage {
+        width: 100%;
+        object-position: center;
+    }
+
+    .Features, .Organizations {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+
+    .FeatureHeading, .OrganizationHeading {
+        font-size: x-large !important;
+    }
+
+    .Feature, .Organization {
+        width: 100%;
+    }
+
+    .Feature, .Organization {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .Footer {
+        flex-direction: column;
+    }
+
+    .FooterColumn {
+        width: 100%;
+        margin: 1em 0;
+    }
+}

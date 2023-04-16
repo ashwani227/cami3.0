@@ -1,0 +1,120 @@
+2023-03-21 18:10:54.149852
+User Input Value: 
+Constipation
+---------------------------------------------------
+2023-03-21 18:10:59.724047
+Input: 
+{'HPO-DDD': ['Constipation'], 'UMLS': [], 'EricTerm': [], 'AIRs': [], 'cb_category': [], 'location': 'all', 'AGE': 'Adult', 'ngrams': ['constipation'], 'relatedConditions': ['Gastroesophageal reflux', 'Sleep disturbance', 'Strabismus', 'Behavioral abnormality', 'Microcephaly', 'Intellectual disability', 'Autism', 'Seizure', 'Delayed speech and language development', 'Global developmental delay'], 'searchedCategory': ['core knowledge'], 'userQueryMeaning': 'If I understood correctly, you want to know about Constipation.Is that right?'}
+---------------------------------------------------
+2023-03-21 18:10:59.726288
+Resources: 
+[]
+---------------------------------------------------
+2023-03-21 18:25:18.091264
+User Input Value: 
+Cognitive impairment
+---------------------------------------------------
+2023-03-21 18:25:24.918376
+Input: 
+{'HPO-DDD': ['Cognitive impairment'], 'UMLS': [], 'EricTerm': [], 'AIRs': [], 'cb_category': [], 'location': 'all', 'AGE': 'Adult', 'ngrams': ['cognitive', 'impairment'], 'relatedConditions': ['Sleep disturbance', 'Strabismus', 'Short stature', 'Microcephaly', 'Autistic behavior', 'Behavioral abnormality', 'Delayed speech and language development', 'Global developmental delay', 'Autism', 'Seizure'], 'searchedCategory': ['core knowledge'], 'userQueryMeaning': 'If I understood correctly, you want to know about Cognitive impairment.Is that right?'}
+---------------------------------------------------
+2023-03-21 18:25:24.919951
+Resources: 
+['http://www.childrenshospital.ab.ca/site/PageServer?pagename=1behaviour_developing_brain_apr2014', 'https://www.kennedykrieger.org/patient-care/conditions/genetic-metabolic-chromosomal-disorders', 'https://ucalgary.ca/news/researchers-study-melatonin-treatment-concussion-teenagers', 'https://opentextbc.ca/caregivers/chapter/chapter-five-when-the-problem-is-pain/', 'https://www.researchgate.net/publication/247155851_Behavioral_Pain_Indicators_in_People_With_Intellectual_Disabilities_A_Systematic_Review', 'https://www.ncbi.nlm.nih.gov/books/NBK402367/', 'https://www.youtube.com/watch?v=pK2JBp1rtk8', 'https://onlinelibrary.wiley.com/doi/full/10.1046/j.1528-1157.2002.26002.x', 'https://www.youtube.com/watch?v=b-46WkxATZ4', 'https://www.youtube.com/watch?v=H_m0ESrkQkY', 'https://www.youtube.com/watch?v=6u8KKVD_CH4']
+---------------------------------------------------
+2023-03-21 18:25:38.548243
+Input: 
+{'HPO-DDD': ['Cognitive impairment'], 'UMLS': [], 'EricTerm': [], 'AIRs': [], 'cb_category': [], 'location': 'all', 'AGE': 'Adult', 'ngrams': ['cognitive', 'impairment'], 'relatedConditions': ['Sleep disturbance', 'Strabismus', 'Short stature', 'Microcephaly', 'Autistic behavior', 'Behavioral abnormality', 'Delayed speech and language development', 'Global developmental delay', 'Autism', 'Seizure'], 'searchedCategory': ['core knowledge'], 'userQueryMeaning': 'If I understood correctly, you want to know about Cognitive impairment.Is that right?'}
+---------------------------------------------------
+2023-03-21 18:25:38.548403
+Resources: 
+['http://www.childrenshospital.ab.ca/site/PageServer?pagename=1behaviour_developing_brain_apr2014', 'https://www.kennedykrieger.org/patient-care/conditions/genetic-metabolic-chromosomal-disorders', 'https://ucalgary.ca/news/researchers-study-melatonin-treatment-concussion-teenagers', 'https://opentextbc.ca/caregivers/chapter/chapter-five-when-the-problem-is-pain/', 'https://www.researchgate.net/publication/247155851_Behavioral_Pain_Indicators_in_People_With_Intellectual_Disabilities_A_Systematic_Review', 'https://www.ncbi.nlm.nih.gov/books/NBK402367/', 'https://www.youtube.com/watch?v=pK2JBp1rtk8', 'https://onlinelibrary.wiley.com/doi/full/10.1046/j.1528-1157.2002.26002.x', 'https://www.youtube.com/watch?v=b-46WkxATZ4', 'https://www.youtube.com/watch?v=H_m0ESrkQkY', 'https://www.youtube.com/watch?v=6u8KKVD_CH4']
+---------------------------------------------------
+2023-03-21 18:25:48.866799
+Input: 
+{'HPO-DDD': ['Cognitive impairment'], 'UMLS': [], 'EricTerm': [], 'AIRs': [], 'cb_category': [], 'location': 'all', 'AGE': 'Adult', 'ngrams': ['cognitive', 'impairment'], 'relatedConditions': ['Sleep disturbance', 'Strabismus', 'Short stature', 'Microcephaly', 'Autistic behavior', 'Behavioral abnormality', 'Delayed speech and language development', 'Global developmental delay', 'Autism', 'Seizure'], 'searchedCategory': ['core knowledge'], 'userQueryMeaning': 'If I understood correctly, you want to know about Cognitive impairment.Is that right?'}
+---------------------------------------------------
+2023-03-21 18:25:48.867120
+Resources: 
+['http://www.childrenshospital.ab.ca/site/PageServer?pagename=1behaviour_developing_brain_apr2014', 'https://www.kennedykrieger.org/patient-care/conditions/genetic-metabolic-chromosomal-disorders', 'https://ucalgary.ca/news/researchers-study-melatonin-treatment-concussion-teenagers', 'https://opentextbc.ca/caregivers/chapter/chapter-five-when-the-problem-is-pain/', 'https://www.researchgate.net/publication/247155851_Behavioral_Pain_Indicators_in_People_With_Intellectual_Disabilities_A_Systematic_Review', 'https://www.ncbi.nlm.nih.gov/books/NBK402367/', 'https://www.youtube.com/watch?v=pK2JBp1rtk8', 'https://onlinelibrary.wiley.com/doi/full/10.1046/j.1528-1157.2002.26002.x', 'https://www.youtube.com/watch?v=b-46WkxATZ4', 'https://www.youtube.com/watch?v=H_m0ESrkQkY', 'https://www.youtube.com/watch?v=6u8KKVD_CH4']
+---------------------------------------------------
+2023-03-21 18:26:13.472421
+User Input Value: 
+Cognitive impairment
+---------------------------------------------------
+2023-03-21 18:26:23.124431
+Input: 
+{'HPO-DDD': ['Cognitive impairment'], 'UMLS': [], 'EricTerm': [], 'AIRs': [], 'cb_category': ['Sensory issues'], 'location': 'all', 'AGE': 'Teen', 'ngrams': ['cognitive', 'impairment'], 'relatedConditions': ['Sleep disturbance', 'Strabismus', 'Short stature', 'Microcephaly', 'Autistic behavior', 'Behavioral abnormality', 'Delayed speech and language development', 'Global developmental delay', 'Autism', 'Seizure'], 'searchedCategory': ['core knowledge'], 'userQueryMeaning': 'If I understood correctly, you want to know about Cognitive impairment.Is that right?'}
+---------------------------------------------------
+2023-03-21 18:26:23.125806
+Resources: 
+['https://ucalgary.ca/news/researchers-study-melatonin-treatment-concussion-teenagers', 'https://onlinelibrary.wiley.com/doi/full/10.1046/j.1528-1157.2002.26002.x', 'https://www.sexsmithphysio.com/Injuries-Conditions/Head/Concussions/a~7946/article.html', 'https://www.ncbi.nlm.nih.gov/books/NBK402367/', 'https://www.youtube.com/watch?v=pK2JBp1rtk8', 'https://www.researchgate.net/publication/247155851_Behavioral_Pain_Indicators_in_People_With_Intellectual_Disabilities_A_Systematic_Review', 'https://www.youtube.com/watch?v=H_m0ESrkQkY']
+---------------------------------------------------
+2023-03-21 18:26:45.352310
+Input: 
+{'HPO-DDD': ['Cognitive impairment'], 'UMLS': [], 'EricTerm': [], 'AIRs': [], 'cb_category': ['Sensory issues'], 'location': 'all', 'AGE': 'Teen', 'ngrams': ['cognitive', 'impairment'], 'relatedConditions': ['Sleep disturbance', 'Strabismus', 'Short stature', 'Microcephaly', 'Autistic behavior', 'Behavioral abnormality', 'Delayed speech and language development', 'Global developmental delay', 'Autism', 'Seizure'], 'searchedCategory': ['core knowledge'], 'userQueryMeaning': 'If I understood correctly, you want to know about Cognitive impairment.Is that right?'}
+---------------------------------------------------
+2023-03-21 18:26:45.352566
+Resources: 
+['https://ucalgary.ca/news/researchers-study-melatonin-treatment-concussion-teenagers', 'https://onlinelibrary.wiley.com/doi/full/10.1046/j.1528-1157.2002.26002.x', 'https://www.sexsmithphysio.com/Injuries-Conditions/Head/Concussions/a~7946/article.html', 'https://www.ncbi.nlm.nih.gov/books/NBK402367/', 'https://www.youtube.com/watch?v=pK2JBp1rtk8', 'https://www.researchgate.net/publication/247155851_Behavioral_Pain_Indicators_in_People_With_Intellectual_Disabilities_A_Systematic_Review', 'https://www.youtube.com/watch?v=H_m0ESrkQkY']
+---------------------------------------------------
+2023-03-21 18:28:15.766644
+User Input Value: 
+Sleep disturbance
+---------------------------------------------------
+2023-03-21 18:28:20.482115
+Input: 
+{'HPO-DDD': ['Sleep disturbance'], 'UMLS': [], 'EricTerm': [], 'AIRs': [], 'cb_category': ['Sleep issues'], 'location': 'all', 'AGE': 'Teen', 'ngrams': ['sleep', 'disturbance'], 'relatedConditions': ['Constipation', 'Microcephaly', 'Aggressive behavior', 'Intellectual disability', 'Autistic behavior', 'Seizure', 'Delayed speech and language development', 'Autism', 'Behavioral abnormality', 'Global developmental delay'], 'searchedCategory': ['core knowledge'], 'userQueryMeaning': 'If I understood correctly, you want to know about Sleep disturbance.Is that right?'}
+---------------------------------------------------
+2023-03-21 18:28:20.482409
+Resources: 
+['https://drpureandassociates.com/importance-of-sleep-teenage-brain-body/', 'https://toronto.cmha.ca/documents/children-youth-and-depression/', 'https://www.additudemag.com/feeling-depressed-adhd-youth-quarantine/', 'https://www.helpguide.org/articles/sleep/childhood-insomnia-and-sleep-problems.htm', 'https://www.youtube.com/watch?v=WKHuvmIPqxg', 'https://ucalgary.ca/news/researchers-study-melatonin-treatment-concussion-teenagers', 'https://autismawarenesscentre.com/sleep-disorders-in-autism-directly-affect-social-skills-new-study/', 'https://www.additudemag.com/is-your-child-depressed/', 'https://www.additudemag.com/adhd-sleep-problems/', 'https://www.aafp.org/afp/2014/0301/p368.html', 'http://www.helpforheadaches.org/adolescents-and-headache', 'https://www.someothersolutions.ca/blog/anxiety-impacts-all-ages', 'http://www.helpforheadaches.org/sleep-disorders-and-headache', 'http://adhdedmonton.com/?page_id=3329', 'https://www.foothillsacademy.org/community-services/parent-education/parent-articles/adhd-parents-need-to-know', 'https://www.physiotherapyalberta.ca/public_and_patients/the_you_movement_blog/9_concussion_myths_busted', 'https://www.physiotherapyalberta.ca/public_and_patients/the_you_movement_blog/keeping_kids_active_setting_them_up_for_a_healthy_future', 'https://safegen.ca/2021/07/20/over-scheduling-why-its-harmful-and-what-you-can-do-to-avoid-it/', 'http://blog.able2learn.com/2016/01/why-we-have-teach-autism-teenagers-good-health/', 'https://www.youtube.com/watch?v=Y3oAc2HhLd4', 'https://www.additudemag.com/symptoms-of-bipolar-disorder-in-children-what-you-are-seeing/', 'http://www.kara-frc.com/author/marnie/page/2/']
+---------------------------------------------------
+2023-03-21 18:30:06.405348
+Input: 
+{'HPO-DDD': ['Sleep disturbance'], 'UMLS': [], 'EricTerm': [], 'AIRs': [], 'cb_category': ['Sleep issues'], 'location': 'all', 'AGE': 'Teen', 'ngrams': ['sleep', 'disturbance'], 'relatedConditions': ['Constipation', 'Microcephaly', 'Aggressive behavior', 'Intellectual disability', 'Autistic behavior', 'Seizure', 'Delayed speech and language development', 'Autism', 'Behavioral abnormality', 'Global developmental delay'], 'searchedCategory': ['core knowledge'], 'userQueryMeaning': 'If I understood correctly, you want to know about Sleep disturbance.Is that right?'}
+---------------------------------------------------
+2023-03-21 18:30:06.407139
+Resources: 
+['https://drpureandassociates.com/importance-of-sleep-teenage-brain-body/', 'https://toronto.cmha.ca/documents/children-youth-and-depression/', 'https://www.additudemag.com/feeling-depressed-adhd-youth-quarantine/', 'https://www.helpguide.org/articles/sleep/childhood-insomnia-and-sleep-problems.htm', 'https://www.youtube.com/watch?v=WKHuvmIPqxg', 'https://ucalgary.ca/news/researchers-study-melatonin-treatment-concussion-teenagers', 'https://autismawarenesscentre.com/sleep-disorders-in-autism-directly-affect-social-skills-new-study/', 'https://www.additudemag.com/is-your-child-depressed/', 'https://www.additudemag.com/adhd-sleep-problems/', 'https://www.aafp.org/afp/2014/0301/p368.html', 'http://www.helpforheadaches.org/adolescents-and-headache', 'https://www.someothersolutions.ca/blog/anxiety-impacts-all-ages', 'http://www.helpforheadaches.org/sleep-disorders-and-headache', 'http://adhdedmonton.com/?page_id=3329', 'https://www.foothillsacademy.org/community-services/parent-education/parent-articles/adhd-parents-need-to-know', 'https://www.physiotherapyalberta.ca/public_and_patients/the_you_movement_blog/9_concussion_myths_busted', 'https://www.physiotherapyalberta.ca/public_and_patients/the_you_movement_blog/keeping_kids_active_setting_them_up_for_a_healthy_future', 'https://safegen.ca/2021/07/20/over-scheduling-why-its-harmful-and-what-you-can-do-to-avoid-it/', 'http://blog.able2learn.com/2016/01/why-we-have-teach-autism-teenagers-good-health/', 'https://www.youtube.com/watch?v=Y3oAc2HhLd4', 'https://www.additudemag.com/symptoms-of-bipolar-disorder-in-children-what-you-are-seeing/', 'http://www.kara-frc.com/author/marnie/page/2/']
+---------------------------------------------------
+2023-03-21 18:30:17.260838
+Input: 
+{'HPO-DDD': ['Sleep disturbance'], 'UMLS': [], 'EricTerm': [], 'AIRs': [], 'cb_category': ['Sleep issues'], 'location': 'all', 'AGE': 'Teen', 'ngrams': ['sleep', 'disturbance'], 'relatedConditions': ['Constipation', 'Microcephaly', 'Aggressive behavior', 'Intellectual disability', 'Autistic behavior', 'Seizure', 'Delayed speech and language development', 'Autism', 'Behavioral abnormality', 'Global developmental delay'], 'searchedCategory': ['core knowledge'], 'userQueryMeaning': 'If I understood correctly, you want to know about Sleep disturbance.Is that right?'}
+---------------------------------------------------
+2023-03-21 18:30:17.261150
+Resources: 
+['https://drpureandassociates.com/importance-of-sleep-teenage-brain-body/', 'https://toronto.cmha.ca/documents/children-youth-and-depression/', 'https://www.additudemag.com/feeling-depressed-adhd-youth-quarantine/', 'https://www.helpguide.org/articles/sleep/childhood-insomnia-and-sleep-problems.htm', 'https://www.youtube.com/watch?v=WKHuvmIPqxg', 'https://ucalgary.ca/news/researchers-study-melatonin-treatment-concussion-teenagers', 'https://autismawarenesscentre.com/sleep-disorders-in-autism-directly-affect-social-skills-new-study/', 'https://www.additudemag.com/is-your-child-depressed/', 'https://www.additudemag.com/adhd-sleep-problems/', 'https://www.aafp.org/afp/2014/0301/p368.html', 'http://www.helpforheadaches.org/adolescents-and-headache', 'https://www.someothersolutions.ca/blog/anxiety-impacts-all-ages', 'http://www.helpforheadaches.org/sleep-disorders-and-headache', 'http://adhdedmonton.com/?page_id=3329', 'https://www.foothillsacademy.org/community-services/parent-education/parent-articles/adhd-parents-need-to-know', 'https://www.physiotherapyalberta.ca/public_and_patients/the_you_movement_blog/9_concussion_myths_busted', 'https://www.physiotherapyalberta.ca/public_and_patients/the_you_movement_blog/keeping_kids_active_setting_them_up_for_a_healthy_future', 'https://safegen.ca/2021/07/20/over-scheduling-why-its-harmful-and-what-you-can-do-to-avoid-it/', 'http://blog.able2learn.com/2016/01/why-we-have-teach-autism-teenagers-good-health/', 'https://www.youtube.com/watch?v=Y3oAc2HhLd4', 'https://www.additudemag.com/symptoms-of-bipolar-disorder-in-children-what-you-are-seeing/', 'http://www.kara-frc.com/author/marnie/page/2/']
+---------------------------------------------------
+2023-03-21 18:30:23.982771
+Input: 
+{'HPO-DDD': ['Sleep disturbance'], 'UMLS': [], 'EricTerm': [], 'AIRs': [], 'cb_category': ['Sleep issues'], 'location': 'all', 'AGE': 'Teen', 'ngrams': ['sleep', 'disturbance'], 'relatedConditions': ['Constipation', 'Microcephaly', 'Aggressive behavior', 'Intellectual disability', 'Autistic behavior', 'Seizure', 'Delayed speech and language development', 'Autism', 'Behavioral abnormality', 'Global developmental delay'], 'searchedCategory': ['core knowledge'], 'userQueryMeaning': 'If I understood correctly, you want to know about Sleep disturbance.Is that right?'}
+---------------------------------------------------
+2023-03-21 18:30:23.983322
+Resources: 
+['https://drpureandassociates.com/importance-of-sleep-teenage-brain-body/', 'https://toronto.cmha.ca/documents/children-youth-and-depression/', 'https://www.additudemag.com/feeling-depressed-adhd-youth-quarantine/', 'https://www.helpguide.org/articles/sleep/childhood-insomnia-and-sleep-problems.htm', 'https://www.youtube.com/watch?v=WKHuvmIPqxg', 'https://ucalgary.ca/news/researchers-study-melatonin-treatment-concussion-teenagers', 'https://autismawarenesscentre.com/sleep-disorders-in-autism-directly-affect-social-skills-new-study/', 'https://www.additudemag.com/is-your-child-depressed/', 'https://www.additudemag.com/adhd-sleep-problems/', 'https://www.aafp.org/afp/2014/0301/p368.html', 'http://www.helpforheadaches.org/adolescents-and-headache', 'https://www.someothersolutions.ca/blog/anxiety-impacts-all-ages', 'http://www.helpforheadaches.org/sleep-disorders-and-headache', 'http://adhdedmonton.com/?page_id=3329', 'https://www.foothillsacademy.org/community-services/parent-education/parent-articles/adhd-parents-need-to-know', 'https://www.physiotherapyalberta.ca/public_and_patients/the_you_movement_blog/9_concussion_myths_busted', 'https://www.physiotherapyalberta.ca/public_and_patients/the_you_movement_blog/keeping_kids_active_setting_them_up_for_a_healthy_future', 'https://safegen.ca/2021/07/20/over-scheduling-why-its-harmful-and-what-you-can-do-to-avoid-it/', 'http://blog.able2learn.com/2016/01/why-we-have-teach-autism-teenagers-good-health/', 'https://www.youtube.com/watch?v=Y3oAc2HhLd4', 'https://www.additudemag.com/symptoms-of-bipolar-disorder-in-children-what-you-are-seeing/', 'http://www.kara-frc.com/author/marnie/page/2/']
+---------------------------------------------------
+2023-03-21 18:30:35.326577
+Input: 
+{'HPO-DDD': ['Sleep disturbance'], 'UMLS': [], 'EricTerm': [], 'AIRs': [], 'cb_category': ['Sleep issues'], 'location': 'all', 'AGE': 'Teen', 'ngrams': ['sleep', 'disturbance'], 'relatedConditions': ['Constipation', 'Microcephaly', 'Aggressive behavior', 'Intellectual disability', 'Autistic behavior', 'Seizure', 'Delayed speech and language development', 'Autism', 'Behavioral abnormality', 'Global developmental delay'], 'searchedCategory': ['core knowledge'], 'userQueryMeaning': 'If I understood correctly, you want to know about Sleep disturbance.Is that right?'}
+---------------------------------------------------
+2023-03-21 18:30:35.326713
+Resources: 
+['https://drpureandassociates.com/importance-of-sleep-teenage-brain-body/', 'https://toronto.cmha.ca/documents/children-youth-and-depression/', 'https://www.additudemag.com/feeling-depressed-adhd-youth-quarantine/', 'https://www.helpguide.org/articles/sleep/childhood-insomnia-and-sleep-problems.htm', 'https://www.youtube.com/watch?v=WKHuvmIPqxg', 'https://ucalgary.ca/news/researchers-study-melatonin-treatment-concussion-teenagers', 'https://autismawarenesscentre.com/sleep-disorders-in-autism-directly-affect-social-skills-new-study/', 'https://www.additudemag.com/is-your-child-depressed/', 'https://www.additudemag.com/adhd-sleep-problems/', 'https://www.aafp.org/afp/2014/0301/p368.html', 'http://www.helpforheadaches.org/adolescents-and-headache', 'https://www.someothersolutions.ca/blog/anxiety-impacts-all-ages', 'http://www.helpforheadaches.org/sleep-disorders-and-headache', 'http://adhdedmonton.com/?page_id=3329', 'https://www.foothillsacademy.org/community-services/parent-education/parent-articles/adhd-parents-need-to-know', 'https://www.physiotherapyalberta.ca/public_and_patients/the_you_movement_blog/9_concussion_myths_busted', 'https://www.physiotherapyalberta.ca/public_and_patients/the_you_movement_blog/keeping_kids_active_setting_them_up_for_a_healthy_future', 'https://safegen.ca/2021/07/20/over-scheduling-why-its-harmful-and-what-you-can-do-to-avoid-it/', 'http://blog.able2learn.com/2016/01/why-we-have-teach-autism-teenagers-good-health/', 'https://www.youtube.com/watch?v=Y3oAc2HhLd4', 'https://www.additudemag.com/symptoms-of-bipolar-disorder-in-children-what-you-are-seeing/', 'http://www.kara-frc.com/author/marnie/page/2/']
+---------------------------------------------------
+2023-03-21 18:31:32.980613
+User Input Value: 
+Cognitive impairment
+---------------------------------------------------
+2023-03-21 18:36:06.376035
+User Input Value: 
+Global developmental delay
+---------------------------------------------------
+2023-03-21 18:36:12.752962
+Input: 
+{'HPO-DDD': ['Global developmental delay'], 'UMLS': [], 'EricTerm': [], 'AIRs': [], 'cb_category': ['Cognitive development'], 'location': 'all', 'AGE': 'Teen', 'ngrams': ['global', 'developmental', 'delay'], 'relatedConditions': ['Sleep disturbance', 'Constipation', 'Generalized hypotonia', 'Joint hypermobility', 'Behavioral abnormality', 'Strabismus', 'Autism', 'Microcephaly', 'Delayed speech and language development', 'Seizure'], 'searchedCategory': ['core knowledge'], 'userQueryMeaning': 'If I understood correctly, you want to know about Global developmental delay.Is that right?'}
+---------------------------------------------------
+2023-03-21 18:36:12.755065
+Resources: 
+['https://www.kidsnewtocanada.ca/screening/hearing', 'https://www.kidsnewtocanada.ca/screening/hearing/', 'https://www.kidsnewtocanada.ca/health-promotion/adoption-preparing', 'https://www.kidsnewtocanada.ca/screening/health-evaluation-international-adoptee', 'https://www.kidsnewtocanada.ca/screening/child-development', 'https://www.kidsnewtocanada.ca/screening/child-development/', 'https://conference.happilyfamily.com/conference-day-5-live/', 'https://www.kidsnewtocanada.ca/screening/language-acquisition', 'https://kidsbrainhealth.ca/index.php/author/nicolas-tm/page/7/', 'https://www.kidsnewtocanada.ca/mental-health/school', 'https://drpureandassociates.com/therapy-services/autism-spectrum-disorder/', 'https://www.canchild.ca/en/diagnoses/developmental-coordination-disorder/dcd-educational-materials-for-home-school-physicians-and-other-health-professionals', 'https://canchild.ca/en/resources/99-suggested-readings-for-developmental-coordination-disorder', 'https://www.boomeranghealth.com/myths-truths-late-talkers/', 'https://www.kidsnewtocanada.ca/culture/adolescent-health-background', 'https://www.upearlyintervention.com/clinic-staff', 'http://giftedpeople.ca/other-resources/autism-spectrum-disorder', 'https://giftedpeople.ca/other-resources/autism-spectrum-disorder', 'https://conference.happilyfamily.com/spring-2018-notes/']
+---------------------------------------------------

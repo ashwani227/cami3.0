@@ -16,6 +16,7 @@ import os
 from twilio.rest import Client
 import googlemaps
 from tips.models import Tip, tipSubscriber
+from goals.models import goalSubscriber 
 
 
 # Find your Account SID and Auth Token at twilio.com/console
@@ -24,6 +25,16 @@ account_sid = 'AC7e434de64b759e5041ebd022f30c2363'
 auth_token = 'b011b9e6e8d95f2a4a937010d5ee6e1f'
 client = Client(account_sid, auth_token)
 
+def add_to_logs(log_type, log_text):
+    log_file = "logs/"+ str(date.today()) + ".txt"
+    mode = 'a+' if os.path.exists(log_file) else 'w'
+    file_object = open(log_file,"a")
+    file_object.write(str(datetime.now())+"\n")
+    file_object.write(log_type + "\n")
+    file_object.write(log_text+"\n")
+    file_object.write("---------------------------------------------------\n")
+    file_object.close()
+    return True
 
 def spell_checker(word):
     spell = SpellChecker()
@@ -50,6 +61,7 @@ def add_subscriber(phoneNumber):
         p.tipsShared.add(tip)
     else: 
         message = "Already a subscriber"
+    add_to_logs("Add Subscriber: ", str(phoneNumber))
     return JsonResponse({"Message": message})
 
 
@@ -78,19 +90,14 @@ def fetch_resources(entityData):
     resources = []
     for resource in resource_set['resources']:
         resources.append(resource['url'])
-    log_file = "logs/"+ str(date.today()) + ".txt"
-    mode = 'a+' if os.path.exists(log_file) else 'w'
-    file_object = open(log_file,"a")
-    file_object.write(str(datetime.now())+"\n")
-    file_object.write("Input:"+ str(entityData)+"\n")
-    file_object.write(str(resources)+"\n")
-    file_object.write("---------------------------------------------------\n")
-    file_object.close()
+    add_to_logs("Input: ", str(entityData))
+    add_to_logs("Resources: ", str(resources))
     return resource_set
 
 @api_view(('GET',))
 def get_entities(request):
     userResponse = local_spell_check(request.GET['userResponse'])
+    add_to_logs("User Input Value: ", request.GET['userResponse'])
     data = nlp_processing(userResponse)
     data['userQueryMeaning'] = "If I understood correctly, you want to know about "
     length_HPO_retrieved = len(data["HPO-DDD"])
@@ -124,9 +131,12 @@ def get_entities(request):
             data['userQueryMeaning'] += cb_umls_received[i]
             
         data['userQueryMeaning'] += '.Is that right?'
+        add_to_logs("Check with user if they mean: ", data['userQueryMeaning'])
     else:
         data['userQueryMeaning'] = "I am sorry, I am not able to find any information on the topic you are searching. Can you please click on try again?"
+        add_to_logs("Query Error: ", "Cannot understand the term "+ request.GET['userResponse'])
     # data['userQueryMeaning'] = userResponse
+
     return JsonResponse(data)
 
 @api_view(('POST', 'GET'))
@@ -206,3 +216,28 @@ def send_text(request):
                      to= phoneNumber
                  )
     return JsonResponse({"message": "Text sent"})
+
+@api_view(('POST',))
+def add_goal_subscriber(request):
+    goalEntities = request.data['goalEntities']
+    phoneNumber = request.data['phoneNumber']
+    emailId = request.data['emailId']
+    resources = fetch_resources(goalEntities)
+    subscriptionPrimaryKey = ""
+    subscriptionType = ""
+    if(phoneNumber):
+        subscriptionPrimaryKey = phoneNumber
+        subscriptionType = "phone"
+    elif emailId:
+        subscriptionPrimaryKey = emailId
+        subscriptionType = "email"
+    p, created = goalSubscriber.objects.get_or_create(
+    subscriptionKey= subscriptionPrimaryKey,
+    subscribedDate = datetime.now(),resources = resources[:20])
+    if created: 
+        message = "Added to Goal subscribers"
+        resources = resources[:5]
+    else: 
+        message = "Already a subscriber"
+    return JsonResponse({"Message": message})
+    

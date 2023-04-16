@@ -795,7 +795,7 @@ def main(entities:dict,  age='all', location='all', topic_modelling_ranking=True
         category_filtered_rs, matched_rs_categories = category_based_filter(final_ordered_urls_df, categories,location)   
             
         # cleaned_resources_list, matched_rs_categories = clean_resource_response(final_ordered_urls_df, entities)
-        results = {'resources':category_filtered_rs[:30],'matchedCategories':matched_rs_categories}
+        results = {'resources':category_filtered_rs[:50],'matchedCategories':matched_rs_categories}
 
     except Exception:
         print(traceback.format_exc())

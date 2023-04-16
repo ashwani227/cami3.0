@@ -1,0 +1,55 @@
+.org-container {
+    background-color: #fff;
+    width: 100vw;
+    height: 100%;
+   
+    margin: 0 auto;
+  }
+  
+  .org-header {
+    background-color: #29ABE2;
+    text-align: center;
+    padding: 5px 0;
+    color: #fff;
+  }
+  
+  .org-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .org-row {
+    color: #29ABE2;
+    width: 20%;
+    margin: 20px 0;
+  }
+  
+  .org-contact, .contact, .funder {
+    display: flex;
+  }
+  
+  .contact, .funder {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .contact {
+    padding: 0 10px;
+  }
+  
+  .contact-pos {
+    margin: 5px;
+  }
+  
+  .contact-name {
+    color: #4A5059;
+    font-weight: bold;
+  }
+  
+  .contact-pos {
+    color: #666;
+  }

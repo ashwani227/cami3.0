@@ -1,0 +1,84 @@
+.menu-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-trigger {
+    background: transparent;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2px;
+    border: none;
+    vertical-align: middle;
+    transition: box-shadow 0.4s ease;
+    margin-left: auto;
+}
+
+.menu-trigger:hover {
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.3);
+}
+
+.menu-trigger span {
+    font-weight: 700;
+    vertical-align: middle;
+    font-size: 14px;
+    background-image: url("../../images/blue-icon.png") !important;
+    width: 45px;
+    height: 45px;
+    margin: 0 5px;
+}
+
+.menu {
+    background-color: #29abe2 !important;
+    text-align: center !important;
+    padding: 10px;
+    border-radius: 10px;
+    position: absolute;
+    top: 35px;
+    right: 0;
+    width: 250px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.3);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-20px);
+    transition: opacity 0.4s ease, transform 0.4s ease, visibility 0.4s;
+}
+
+.menu.active {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+    z-index: 2500;
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu li {
+    border-bottom: 1px solid #dddddd;
+}
+
+.menu .nav-item {
+    color: white !important;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+.menu .nav-item:hover,
+.menu .nav-item:focus,
+.menu .nav-item:active {
+    color: #fafafa !important;
+    background-color: transparent !important;
+    font-weight: 600;
+}
+
+.body-margin-top {
+    margin-top: 5rem !important;
+}

@@ -1,0 +1,16 @@
+2023-01-18 19:09:57.755591
+User Input Value: 
+autism services
+---------------------------------------------------
+2023-01-18 19:09:58.960681
+Query Error: 
+Cannot understand the term autism services
+---------------------------------------------------
+2023-01-18 19:10:02.839162
+Input: 
+{'HPO-DDD': [], 'UMLS': [], 'EricTerm': [], 'AIRs': ['Autism Therapy'], 'cb_category': [], 'location': 'edmonton', 'AGE': 'Child', 'ngrams': ['autism', 'service'], 'relatedConditions': [], 'searchedCategory': ['services'], 'userQueryMeaning': 'I am sorry, I am not able to find any information on the topic you are searching. Can you please click on try again?'}
+---------------------------------------------------
+2023-01-18 19:10:02.839463
+Resources: 
+['https://centreforautism.ab.ca/age/art-children-6-12/', 'https://centreforautism.ab.ca/program/family-night/', 'https://centreforautism.ab.ca/program/facing-your-fears-3/', 'https://centreforautism.ab.ca/program/specialized-services-2/', 'https://centreforautism.ab.ca/age/skills-children-6-12/', 'https://centreforautism.ab.ca/age/start-program/', 'https://centreforautism.ab.ca/age/employment-readiness/', 'https://www.saskatchewan.ca/residents/health/accessing-health-care-services/health-services-for-people-with-disabilities/registry-of-autism-service-providers', 'https://www.awotaan.org/', 'https://closertohome.com/', 'https://alis.alberta.ca/', 'https://www.communicationcoachingcentre.com/', 'https://calgarycounselling.com/']
+---------------------------------------------------

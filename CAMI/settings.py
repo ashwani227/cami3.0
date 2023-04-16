@@ -45,7 +45,10 @@ INSTALLED_APPS = [
     'chat_module',
     'import_export',
     'bug_reporting',
-    'tips'
+    'tips',
+    'goals',
+    'userinterface'
+
 ]
 
 
@@ -67,7 +70,7 @@ TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [os.path.join(BASE_DIR,'templates'),
-        os.path.join(BASE_DIR, 'frontend/react'),
+        os.path.join(BASE_DIR, 'userinterface/react'),
             os.path.join(
                 BASE_DIR, 'authentication/email_manager', 'templates'),],
         'APP_DIRS': True,
@@ -212,8 +215,9 @@ MEDIA_URL = '/bugs/'
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
 
-STATICFILES_DIRS = [os.path.join(BASE_DIR, "static")]
-STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
+STATICFILES_DIRS = [os.path.join(BASE_DIR, "staticfiles"), os.path.join(BASE_DIR, "userinterface/react/build/static")]
+STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles_2")
+STATIC_ROOT_2 = os.path.join(BASE_DIR, "userinterface/react/build/static")
 STATIC_URL = '/static/'
 
 EMAIL_USE_TLS = True

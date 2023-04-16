@@ -1,0 +1,144 @@
+2023-02-14 19:40:33.638240
+User Input Value: 
+14 yrs old ADHD son with impulsive hitting
+---------------------------------------------------
+2023-02-14 19:40:38.553616
+User Input Value: 
+I have been searching for any type of support group, others seeking friends, etc and I can't find anything
+---------------------------------------------------
+2023-02-14 19:40:39.573820
+Check with user if they mean: 
+If I understood correctly, you want to know about Support Groups.Is that right?
+---------------------------------------------------
+2023-02-14 19:40:39.845824
+User Input Value: 
+My daughter, age 7 has started compulsively pulling her eyelashes and now handfulls of her hair. She was doing the eyelash pulling while stressed
+---------------------------------------------------
+2023-02-14 19:40:41.541461
+Check with user if they mean: 
+If I understood correctly, you want to know about Eyelash.Is that right?
+---------------------------------------------------
+2023-02-14 19:40:41.843429
+User Input Value: 
+educational programs for ADHD teen in Alberta
+---------------------------------------------------
+2023-02-14 19:40:45.018001
+User Input Value: 
+Aggression in Autism child
+---------------------------------------------------
+2023-02-14 19:40:48.384491
+User Input Value: 
+I'm trying to learn everything I could on Autism so I can better help her. My question is how do I know how severe her autism is?
+---------------------------------------------------
+2023-02-14 20:01:02.973682
+User Input Value: 
+14 yrs old ADHD son with impulsive hitting
+---------------------------------------------------
+2023-02-14 20:01:06.469353
+User Input Value: 
+I have been searching for any type of support group, others seeking friends, etc and I can't find anything
+---------------------------------------------------
+2023-02-14 20:01:08.455617
+Check with user if they mean: 
+If I understood correctly, you want to know about Support Groups.Is that right?
+---------------------------------------------------
+2023-02-14 20:01:08.719992
+User Input Value: 
+My daughter, age 7 has started compulsively pulling her eyelashes and now handfulls of her hair. She was doing the eyelash pulling while stressed
+---------------------------------------------------
+2023-02-14 20:01:10.483639
+Check with user if they mean: 
+If I understood correctly, you want to know about Eyelash.Is that right?
+---------------------------------------------------
+2023-02-14 20:01:10.746642
+User Input Value: 
+educational programs for ADHD teen in Alberta
+---------------------------------------------------
+2023-02-14 20:01:12.991229
+User Input Value: 
+Aggression in Autism child
+---------------------------------------------------
+2023-02-14 20:01:15.393446
+User Input Value: 
+I'm trying to learn everything I could on Autism so I can better help her. My question is how do I know how severe her autism is?
+---------------------------------------------------
+2023-02-14 20:01:20.660330
+User Input Value: 
+how to stop my child from self-harming
+---------------------------------------------------
+2023-02-14 20:01:21.988510
+User Input Value: 
+funding for autism child in ontario
+---------------------------------------------------
+2023-02-14 20:01:24.408998
+User Input Value: 
+My son/ daughter pushes me when he/ she is angry.
+---------------------------------------------------
+2023-02-14 20:01:25.362693
+User Input Value: 
+My son yells and screams at his sibling when he doesn’t get his way.
+---------------------------------------------------
+2023-02-14 20:01:26.286569
+User Input Value: 
+summer camps calgary kids with disabilities
+---------------------------------------------------
+2023-02-14 20:01:26.935876
+Query Error: 
+Cannot understand the term summer camps calgary kids with disabilities
+---------------------------------------------------
+2023-02-14 20:01:27.582477
+User Input Value: 
+How can metformin help in fragile x
+---------------------------------------------------
+2023-02-14 20:01:28.495011
+User Input Value: 
+wording finding difficulties
+---------------------------------------------------
+2023-02-14 20:01:29.469879
+User Input Value: 
+special needs summer caps
+---------------------------------------------------
+2023-02-14 20:01:30.111989
+Check with user if they mean: 
+If I understood correctly, you want to know about Summer.Is that right?
+---------------------------------------------------
+2023-02-14 20:01:31.424294
+User Input Value: 
+respite care services for developmental disabilities
+---------------------------------------------------
+2023-02-14 20:01:32.373430
+User Input Value: 
+repetitive behavior in child
+---------------------------------------------------
+2023-02-14 20:01:33.295159
+User Input Value: 
+My son has issues with sleep patterns.
+---------------------------------------------------
+2023-02-14 20:01:34.246589
+User Input Value: 
+Techniques to manage hyperactivity at school
+---------------------------------------------------
+2023-02-14 20:01:37.168492
+User Input Value: 
+My son is out of control with his aggression any suggestions on how to help him
+---------------------------------------------------
+2023-02-14 20:01:39.606507
+User Input Value: 
+What is the long term damage of 7 year old who constantly head bangs
+---------------------------------------------------
+2023-02-14 20:01:40.562842
+User Input Value: 
+My child is ocd, should i try to prevent his obsessions and cumpulsions and repetitive behaviors
+---------------------------------------------------
+2023-02-14 20:08:00.690291
+User Input Value: 
+special needs summer camps
+---------------------------------------------------
+2023-02-14 20:08:22.733254
+Input: 
+{'HPO-DDD': [], 'UMLS': [], 'EricTerm': ['Special Needs'], 'AIRs': ['Summer Camps'], 'cb_category': ['Cognitive development'], 'location': '', 'AGE': '', 'ngrams': ['special', 'need', 'summer', 'camp'], 'relatedConditions': [], 'searchedCategory': ['core knowledge'], 'userQueryMeaning': 'If I understood correctly, you want to know about Cognitive development.Is that right?'}
+---------------------------------------------------
+2023-02-14 20:08:22.735022
+Resources: 
+['https://www.bridges-canada.com/blogs/bridges-news/tagged/writing?page=9', 'https://ckc.calgaryfoundation.org/profile/between-friends-calgary-between-friends-club-fun-and-fellowship-for-disabled-youth/', 'http://www.adaptmanitoba.ca/what-is-an-ea-supposed-to-do/', 'https://www.ceridiancares.com/community.html', 'https://www.qicreative.com/news/not-your-typical-summer-break', 'http://jolc.ca/author/webmaster/', 'http://www.tsedmonton.com/summer-camps-2021.html', 'https://noahsclubhouse.org/donate/', 'https://www.autismontario.com/fr/search?search_api_fulltext=&field_geolocation_2_proximity%5Bcenter_lat%5D=&field_geolocation_2_proximity%5Bcenter_long%5D=&field_geolocation_2_proximity%5Bdistance%5D=5&field_geolocation_2_proximity%5Bstreet_address%5D=&field_geolocation_2_proximity%5Bcity%5D=&field_geolocation_2_proximity%5Bpostal_code%5D=&custom_896=All&custom_891=&custom_892=&f%5B0%5D=chapter_reference%3A39&f%5B1%5D=chapter_reference%3A41&f%5B2%5D=chapter_reference%3A43&f%5B3%5D=chapter_reference%3A45&f%5B4%5D=chapter_reference%3A46&f%5B5%5D=type%3AService%20Listing&f%5B6%5D=type%3Alearning_resource&f%5B7%5D=type%3Alearning_resource', 'https://www.autismontario.com/fr/search?search_api_fulltext=&field_geolocation_2_proximity%5Bcenter_lat%5D=&field_geolocation_2_proximity%5Bcenter_long%5D=&field_geolocation_2_proximity%5Bdistance%5D=5&field_geolocation_2_proximity%5Bstreet_address%5D=&field_geolocation_2_proximity%5Bcity%5D=&field_geolocation_2_proximity%5Bpostal_code%5D=&custom_896=All&custom_891=&custom_892=&f%5B0%5D=chapter_reference%3A39&f%5B1%5D=chapter_reference%3A41&f%5B2%5D=chapter_reference%3A43&f%5B3%5D=chapter_reference%3A45&f%5B4%5D=chapter_reference%3A46&f%5B5%5D=mapped_location%3A1&f%5B6%5D=type%3AService%20Listing&f%5B7%5D=type%3Alearning_resource&f%5B8%5D=type%3Alearning_resource', 'https://www.autismontario.com/fr/search?search_api_fulltext=&field_geolocation_2_proximity%5Bcenter_lat%5D=&field_geolocation_2_proximity%5Bcenter_long%5D=&field_geolocation_2_proximity%5Bdistance%5D=5&field_geolocation_2_proximity%5Bstreet_address%5D=&field_geolocation_2_proximity%5Bcity%5D=&field_geolocation_2_proximity%5Bpostal_code%5D=&custom_896=All&custom_891=&custom_892=&f%5B0%5D=chapter_reference%3A39&f%5B1%5D=chapter_reference%3A41&f%5B2%5D=chapter_reference%3A45&f%5B3%5D=chapter_reference%3A46&f%5B4%5D=mapped_location%3A1&f%5B5%5D=type%3AService%20Listing&f%5B6%5D=type%3Alearning_resource&f%5B7%5D=type%3Alearning_resource', 'https://mfrc.org/accolades/', 'https://www.autismontario.com/fr/search?search_api_fulltext=&field_geolocation_2_proximity%5Bcenter_lat%5D=&field_geolocation_2_proximity%5Bcenter_long%5D=&field_geolocation_2_proximity%5Bdistance%5D=5&field_geolocation_2_proximity%5Bstreet_address%5D=&field_geolocation_2_proximity%5Bcity%5D=&field_geolocation_2_proximity%5Bpostal_code%5D=&custom_896=All&custom_891=&custom_892=&f%5B0%5D=chapter_reference%3A41&f%5B1%5D=chapter_reference%3A43&f%5B2%5D=chapter_reference%3A46&f%5B3%5D=chapter_reference%3A48&f%5B4%5D=type%3AService%20Listing&f%5B5%5D=type%3Alearning_resource&f%5B6%5D=type%3Alearning_resource', 'https://www.autismontario.com/fr/search?search_api_fulltext=&field_geolocation_2_proximity%5Bcenter_lat%5D=&field_geolocation_2_proximity%5Bcenter_long%5D=&field_geolocation_2_proximity%5Bdistance%5D=5&field_geolocation_2_proximity%5Bstreet_address%5D=&field_geolocation_2_proximity%5Bcity%5D=&field_geolocation_2_proximity%5Bpostal_code%5D=&custom_896=All&custom_891=&custom_892=&f%5B0%5D=chapter_reference%3A41&f%5B1%5D=chapter_reference%3A43&f%5B2%5D=chapter_reference%3A46&f%5B3%5D=chapter_reference%3A48&f%5B4%5D=mapped_location%3A1&f%5B5%5D=type%3AService%20Listing&f%5B6%5D=type%3Alearning_resource&f%5B7%5D=type%3Alearning_resource', 'https://www.autismontario.com/fr/search?search_api_fulltext=&field_geolocation_2_proximity%5Bcenter_lat%5D=&field_geolocation_2_proximity%5Bcenter_long%5D=&field_geolocation_2_proximity%5Bdistance%5D=5&field_geolocation_2_proximity%5Bstreet_address%5D=&field_geolocation_2_proximity%5Bcity%5D=&field_geolocation_2_proximity%5Bpostal_code%5D=&custom_896=All&custom_891=&custom_892=&f%5B0%5D=chapter_reference%3A43&f%5B1%5D=chapter_reference%3A46&f%5B2%5D=chapter_reference%3A47&f%5B3%5D=chapter_reference%3A48&f%5B4%5D=type%3AService%20Listing&f%5B5%5D=type%3Alearning_resource&f%5B6%5D=type%3Alearning_resource', 'https://gacsn.org/2019/12/12/gacsn-dec-14th/', 'https://gacsn.org/2017/05/03/graduation-fiesta-dance/the-grand-graduation-fiesta-copy/', 'https://www.autismontario.com/fr/search?search_api_fulltext=&field_geolocation_2_proximity%5Bcenter_lat%5D=&field_geolocation_2_proximity%5Bcenter_long%5D=&field_geolocation_2_proximity%5Bdistance%5D=5&field_geolocation_2_proximity%5Bstreet_address%5D=&field_geolocation_2_proximity%5Bcity%5D=&field_geolocation_2_proximity%5Bpostal_code%5D=&custom_896=All&custom_891=&custom_892=&f%5B0%5D=chapter_reference%3A39&f%5B1%5D=chapter_reference%3A41&f%5B2%5D=chapter_reference%3A43&f%5B3%5D=chapter_reference%3A45&f%5B4%5D=chapter_reference%3A46&f%5B5%5D=chapter_reference%3A48&f%5B6%5D=mapped_location%3A1&f%5B7%5D=type%3AService%20Listing&f%5B8%5D=type%3Alearning_resource&f%5B9%5D=type%3Alearning_resource', 'https://www.autismontario.com/fr/search?search_api_fulltext=&field_geolocation_2_proximity%5Bcenter_lat%5D=&field_geolocation_2_proximity%5Bcenter_long%5D=&field_geolocation_2_proximity%5Bdistance%5D=5&field_geolocation_2_proximity%5Bstreet_address%5D=&field_geolocation_2_proximity%5Bcity%5D=&field_geolocation_2_proximity%5Bpostal_code%5D=&custom_896=All&custom_891=&custom_892=&f%5B0%5D=chapter_reference%3A41&f%5B1%5D=chapter_reference%3A43&f%5B2%5D=chapter_reference%3A44&f%5B3%5D=chapter_reference%3A45&f%5B4%5D=chapter_reference%3A46&f%5B5%5D=chapter_reference%3A47&f%5B6%5D=chapter_reference%3A48&f%5B7%5D=type%3AService%20Listing&f%5B8%5D=type%3Alearning_resource&f%5B9%5D=type%3Alearning_resource', 'https://www.autismontario.com/fr/search?search_api_fulltext=&field_geolocation_2_proximity%5Bcenter_lat%5D=&field_geolocation_2_proximity%5Bcenter_long%5D=&field_geolocation_2_proximity%5Bdistance%5D=5&field_geolocation_2_proximity%5Bstreet_address%5D=&field_geolocation_2_proximity%5Bcity%5D=&field_geolocation_2_proximity%5Bpostal_code%5D=&custom_896=All&custom_891=&custom_892=&f%5B0%5D=chapter_reference%3A43&f%5B1%5D=chapter_reference%3A44&f%5B2%5D=chapter_reference%3A45&f%5B3%5D=chapter_reference%3A46&f%5B4%5D=chapter_reference%3A47&f%5B5%5D=chapter_reference%3A48&f%5B6%5D=type%3AService%20Listing&f%5B7%5D=type%3Alearning_resource&f%5B8%5D=type%3Alearning_resource', 'https://www.autismontario.com/fr/search?search_api_fulltext=&field_geolocation_2_proximity%5Bcenter_lat%5D=&field_geolocation_2_proximity%5Bcenter_long%5D=&field_geolocation_2_proximity%5Bdistance%5D=5&field_geolocation_2_proximity%5Bstreet_address%5D=&field_geolocation_2_proximity%5Bcity%5D=&field_geolocation_2_proximity%5Bpostal_code%5D=&custom_896=All&custom_891=&custom_892=&f%5B0%5D=chapter_reference%3A43&f%5B1%5D=chapter_reference%3A44&f%5B2%5D=chapter_reference%3A45&f%5B3%5D=chapter_reference%3A46&f%5B4%5D=chapter_reference%3A47&f%5B5%5D=chapter_reference%3A48&f%5B6%5D=mapped_location%3A1&f%5B7%5D=type%3AService%20Listing&f%5B8%5D=type%3Alearning_resource&f%5B9%5D=type%3Alearning_resource', 'https://www.autismontario.com/fr/search?search_api_fulltext=&field_geolocation_2_proximity%5Bcenter_lat%5D=&field_geolocation_2_proximity%5Bcenter_long%5D=&field_geolocation_2_proximity%5Bdistance%5D=5&field_geolocation_2_proximity%5Bstreet_address%5D=&field_geolocation_2_proximity%5Bcity%5D=&field_geolocation_2_proximity%5Bpostal_code%5D=&custom_896=All&custom_891=&custom_892=&f%5B0%5D=chapter_reference%3A41&f%5B1%5D=chapter_reference%3A43&f%5B2%5D=chapter_reference%3A45&f%5B3%5D=chapter_reference%3A46&f%5B4%5D=chapter_reference%3A47&f%5B5%5D=chapter_reference%3A48&f%5B6%5D=type%3AService%20Listing&f%5B7%5D=type%3Alearning_resource&f%5B8%5D=type%3Alearning_resource', 'https://www.autismontario.com/fr/search?search_api_fulltext=&field_geolocation_2_proximity%5Bcenter_lat%5D=&field_geolocation_2_proximity%5Bcenter_long%5D=&field_geolocation_2_proximity%5Bdistance%5D=5&field_geolocation_2_proximity%5Bstreet_address%5D=&field_geolocation_2_proximity%5Bcity%5D=&field_geolocation_2_proximity%5Bpostal_code%5D=&custom_896=All&custom_891=&custom_892=&f%5B0%5D=chapter_reference%3A41&f%5B1%5D=chapter_reference%3A43&f%5B2%5D=chapter_reference%3A45&f%5B3%5D=chapter_reference%3A46&f%5B4%5D=chapter_reference%3A47&f%5B5%5D=chapter_reference%3A48&f%5B6%5D=mapped_location%3A1&f%5B7%5D=type%3AService%20Listing&f%5B8%5D=type%3Alearning_resource&f%5B9%5D=type%3Alearning_resource', 'https://www.autismontario.com/fr/search?search_api_fulltext=&field_geolocation_2_proximity%5Bcenter_lat%5D=&field_geolocation_2_proximity%5Bcenter_long%5D=&field_geolocation_2_proximity%5Bdistance%5D=5&field_geolocation_2_proximity%5Bstreet_address%5D=&field_geolocation_2_proximity%5Bcity%5D=&field_geolocation_2_proximity%5Bpostal_code%5D=&custom_896=All&custom_891=&custom_892=&f%5B0%5D=chapter_reference%3A41&f%5B1%5D=chapter_reference%3A43&f%5B2%5D=chapter_reference%3A45&f%5B3%5D=chapter_reference%3A46&f%5B4%5D=chapter_reference%3A48&f%5B5%5D=type%3AService%20Listing&f%5B6%5D=type%3Alearning_resource&f%5B7%5D=type%3Alearning_resource', 'https://www.autismontario.com/fr/search?search_api_fulltext=&field_geolocation_2_proximity%5Bcenter_lat%5D=&field_geolocation_2_proximity%5Bcenter_long%5D=&field_geolocation_2_proximity%5Bdistance%5D=5&field_geolocation_2_proximity%5Bstreet_address%5D=&field_geolocation_2_proximity%5Bcity%5D=&field_geolocation_2_proximity%5Bpostal_code%5D=&custom_896=All&custom_891=&custom_892=&f%5B0%5D=chapter_reference%3A43&f%5B1%5D=chapter_reference%3A45&f%5B2%5D=chapter_reference%3A46&f%5B3%5D=chapter_reference%3A47&f%5B4%5D=chapter_reference%3A48&f%5B5%5D=mapped_location%3A1&f%5B6%5D=type%3AService%20Listing&f%5B7%5D=type%3Alearning_resource&f%5B8%5D=type%3Alearning_resource', 'https://gacsn.org/2017/05/03/graduation-fiesta-dance/grande-fiesta-de-fin-detudes/', 'https://gacsn.org/2020/09/03/important-update-2/', 'https://www.autismontario.com/fr/search?search_api_fulltext=&field_geolocation_2_proximity%5Bcenter_lat%5D=&field_geolocation_2_proximity%5Bcenter_long%5D=&field_geolocation_2_proximity%5Bdistance%5D=5&field_geolocation_2_proximity%5Bstreet_address%5D=&field_geolocation_2_proximity%5Bcity%5D=&field_geolocation_2_proximity%5Bpostal_code%5D=&custom_896=All&custom_891=&custom_892=&f%5B0%5D=chapter_reference%3A45&f%5B1%5D=chapter_reference%3A46&f%5B2%5D=chapter_reference%3A47&f%5B3%5D=chapter_reference%3A48&f%5B4%5D=type%3AService%20Listing&f%5B5%5D=type%3Alearning_resource&f%5B6%5D=type%3Alearning_resource', 'https://www.autismontario.com/fr/search?search_api_fulltext=&f%5B0%5D=chapter_reference%3A45&f%5B1%5D=chapter_reference%3A46&f%5B2%5D=chapter_reference%3A47&f%5B3%5D=chapter_reference%3A48&f%5B4%5D=mapped_location%3A1&f%5B5%5D=type%3AService%20Listing', 'https://www.autismontario.com/fr/search?search_api_fulltext=&f%5B0%5D=chapter_reference%3A45&f%5B1%5D=chapter_reference%3A46&f%5B2%5D=chapter_reference%3A48&f%5B3%5D=type%3AService%20Listing', 'https://www.autismontario.com/fr/search?search_api_fulltext=&field_geolocation_2_proximity%5Bcenter_lat%5D=&field_geolocation_2_proximity%5Bcenter_long%5D=&field_geolocation_2_proximity%5Bdistance%5D=5&field_geolocation_2_proximity%5Bstreet_address%5D=&field_geolocation_2_proximity%5Bcity%5D=&field_geolocation_2_proximity%5Bpostal_code%5D=&custom_896=All&custom_891=&custom_892=&f%5B0%5D=chapter_reference%3A45&f%5B1%5D=chapter_reference%3A46&f%5B2%5D=chapter_reference%3A48&f%5B3%5D=type%3AService%20Listing&f%5B4%5D=type%3Alearning_resource&f%5B5%5D=type%3Alearning_resource', 'https://www.autismontario.com/fr/search?search_api_fulltext=&f%5B0%5D=chapter_reference%3A45&f%5B1%5D=chapter_reference%3A46&f%5B2%5D=chapter_reference%3A48&f%5B3%5D=mapped_location%3A1&f%5B4%5D=type%3AService%20Listing', 'https://pacekids.ca/searching-for-speech/', 'https://www.autismontario.com/fr/search?search_api_fulltext=&field_geolocation_2_proximity%5Bcenter_lat%5D=&field_geolocation_2_proximity%5Bcenter_long%5D=&field_geolocation_2_proximity%5Bdistance%5D=5&field_geolocation_2_proximity%5Bstreet_address%5D=&field_geolocation_2_proximity%5Bcity%5D=&field_geolocation_2_proximity%5Bpostal_code%5D=&custom_896=All&custom_891=&custom_892=&f%5B0%5D=chapter_reference%3A39&f%5B1%5D=chapter_reference%3A41&f%5B2%5D=chapter_reference%3A43&f%5B3%5D=chapter_reference%3A45&f%5B4%5D=chapter_reference%3A46&f%5B5%5D=chapter_reference%3A48&f%5B6%5D=chapter_reference%3A52&f%5B7%5D=mapped_location%3A1&f%5B8%5D=type%3AService%20Listing&f%5B9%5D=type%3Alearning_resource&f%5B10%5D=type%3Alearning_resource', 'https://www.autismontario.com/fr/search?search_api_fulltext=&field_geolocation_2_proximity%5Bcenter_lat%5D=&field_geolocation_2_proximity%5Bcenter_long%5D=&field_geolocation_2_proximity%5Bdistance%5D=5&field_geolocation_2_proximity%5Bstreet_address%5D=&field_geolocation_2_proximity%5Bcity%5D=&field_geolocation_2_proximity%5Bpostal_code%5D=&custom_896=All&custom_891=&custom_892=&f%5B0%5D=chapter_reference%3A39&f%5B1%5D=chapter_reference%3A41&f%5B2%5D=chapter_reference%3A43&f%5B3%5D=chapter_reference%3A45&f%5B4%5D=chapter_reference%3A46&f%5B5%5D=chapter_reference%3A48&f%5B6%5D=chapter_reference%3A52&f%5B7%5D=type%3AService%20Listing&f%5B8%5D=type%3Alearning_resource&f%5B9%5D=type%3Alearning_resource', 'https://www.autismontario.com/fr/search?search_api_fulltext=&field_geolocation_2_proximity%5Bcenter_lat%5D=&field_geolocation_2_proximity%5Bcenter_long%5D=&field_geolocation_2_proximity%5Bdistance%5D=5&field_geolocation_2_proximity%5Bstreet_address%5D=&field_geolocation_2_proximity%5Bcity%5D=&field_geolocation_2_proximity%5Bpostal_code%5D=&custom_896=All&custom_891=&custom_892=&f%5B0%5D=chapter_reference%3A39&f%5B1%5D=chapter_reference%3A41&f%5B2%5D=chapter_reference%3A43&f%5B3%5D=chapter_reference%3A45&f%5B4%5D=chapter_reference%3A46&f%5B5%5D=chapter_reference%3A52&f%5B6%5D=mapped_location%3A1&f%5B7%5D=type%3AService%20Listing&f%5B8%5D=type%3Alearning_resource&f%5B9%5D=type%3Alearning_resource', 'https://education.easterseals.org/category/starting-school/', 'https://education.easterseals.org/category/starting-school/page/2/', 'https://education.easterseals.org/starting-school/', 'https://education.easterseals.org/school-entry-action-plan/', 'https://www.campgencheff.com/staff-q-a', 'https://www.bridges-canada.com/blogs/bridges-news/117099779-new-meville-to-weville-don-johnston-package', 'https://youthcentral.com/blog/2019/02/01/january-volunteer-honour-roll/', 'https://epilepsysco.org/programs-services/sunny-days-camp/', 'https://www.pwsausa.org/cousins-christmas-opening-conversation-childs-special-needs/', 'https://education.easterseals.org/high-school/', 'https://magnusmode.com/news/aw-won-my-business-because-it-operates-with-purpose/', 'https://ckc.calgaryfoundation.org/profile/kids-cancer-care-foundation-of-alberta/', 'https://www.bridges-canada.com/blogs/bridges-news/117102019-eye-gaze-packages-trialled-in-toronto-classrooms', 'https://magnusmode.com/news/cameron-at-the-rom/']
+---------------------------------------------------
